@@ -89,12 +89,7 @@ body.fade-out {
   font-weight: bold;
 }
 
-/* Navbar home button */
-.Navbar a.active { /* The active selector styles a link */
-  background-color: darkgray;  /* This specifies the background color behind the Home button on the navbar */ 
-}
-
-/* /Top Navbar */
+/* /Navbar */
 
 /* Video */
 
